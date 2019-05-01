@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	float suma=0;
+	flotat suma=0.0;
 	float mitjana;
 	float nou_valor;
 	int numero_repeticions=0;
